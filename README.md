@@ -6,4 +6,4 @@
 -> npm start
 ## you are good to go 
 
-#Live website Url :- https://65419156793f4212d48d253f--lucent-snickerdoodle-832dc9.netlify.app/
+#Live website Url :- https://quicksellassingmentbypulakraj.netlify.app/
